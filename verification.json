@@ -1,0 +1,24 @@
+{
+  "unitTestsPassed": 12,
+  "realProjects": [
+    {
+      "file": "James_K2_Plus.3mf",
+      "success": true,
+      "printer": "Creality K2 Plus 0.4 nozzle - wifi",
+      "sourceMaterialFieldsExcluded": 137,
+      "materialPolicy": "local-default-presets"
+    },
+    {
+      "file": "Minecraft_K2_Plus.3mf",
+      "success": true,
+      "printer": "Creality K2 Plus 0.4 nozzle - wifi",
+      "sourceMaterialFieldsExcluded": 123,
+      "materialPolicy": "local-default-presets"
+    }
+  ],
+  "headlessQtUi": "passed",
+  "workerIntegration": "passed",
+  "savedWifiPresetUnchanged": true,
+  "wifiConnectionTested": false,
+  "physicalPrintTested": false
+}

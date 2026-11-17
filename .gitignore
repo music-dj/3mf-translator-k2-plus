@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary and Scratch Files
+.tmp*
+*.tmp
+*.log
+.codex-backups/
+skills/
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 3MF generated files
+*.3mf
+!samples/*.3mf
